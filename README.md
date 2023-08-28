@@ -1,1 +1,1 @@
-# cs340_test_data
+# Sky-Scan DB: Full CRUD functionality
